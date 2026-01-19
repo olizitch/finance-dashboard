@@ -1,0 +1,15 @@
+{
+  "name": "finance-dashboard",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "update:data": "node scripts/update-dashboard.js"
+  },
+  "devDependencies": {
+    "vite": "^7.2.4"
+  }
+}
