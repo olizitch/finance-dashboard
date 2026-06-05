@@ -1,438 +1,45 @@
 {
-  "updatedAt": "2026-06-04T10:31:26.655Z",
+  "updatedAt": "2026-06-05T10:39:01.280Z",
   "fx": {
-    "date": "04.06.2026",
+    "date": "05.06.2026",
     "uah": {
-      "USD": 44.3494,
-      "EUR": 51.5251,
-      "GBP": 59.6544
+      "USD": 44.3793,
+      "EUR": 51.6686,
+      "GBP": 59.7345
     },
     "usd": {
-      "EUR": 0.8607338947425623,
-      "GBP": 0.743438874584272
+      "EUR": 0.8589220532392982,
+      "GBP": 0.7429425206538935
     }
   },
   "crypto": {
     "usd": {
-      "BTC": 62438,
-      "ETH": 1753.1,
-      "USDT": 0.998723,
-      "BNB": 592.37,
-      "XRP": 1.15,
-      "USDC": 0.999599,
-      "SOL": 68.31,
-      "TRX": 0.326842,
-      "DOGE": 0.087291,
-      "ADA": 0.188365
+      "BTC": 62410,
+      "ETH": 1674.63,
+      "USDT": 0.99919,
+      "BNB": 591.31,
+      "XRP": 1.13,
+      "USDC": 0.999817,
+      "SOL": 66.44,
+      "TRX": 0.325674,
+      "DOGE": 0.084778,
+      "ADA": 0.164486
     },
     "uah": {
-      "BTC": 2771324,
-      "ETH": 77812,
-      "USDT": 44.33,
-      "BNB": 26293,
-      "XRP": 51.12,
-      "USDC": 44.37,
-      "SOL": 3031.8,
-      "TRX": 14.51,
-      "DOGE": 3.87,
-      "ADA": 8.36
+      "BTC": 2768007,
+      "ETH": 74273,
+      "USDT": 44.32,
+      "BNB": 26226,
+      "XRP": 50.32,
+      "USDC": 44.34,
+      "SOL": 2946.68,
+      "TRX": 14.44,
+      "DOGE": 3.76,
+      "ADA": 7.3
     }
   },
   "stocks": [
     {
-      "symbol": "NVDA.US",
-      "date": "2026-06-03",
-      "time": "22:00:20",
-      "open": 221.72,
-      "high": 222.82,
-      "low": 214.51,
-      "close": 214.75,
-      "volume": 160907001
-    },
-    {
-      "symbol": "AAPL.US",
-      "date": "2026-06-03",
-      "time": "22:00:20",
-      "open": 314.175,
-      "high": 316.94,
-      "low": 308.85,
-      "close": 310.26,
-      "volume": 50836705
-    },
-    {
-      "symbol": "MSFT.US",
-      "date": "2026-06-03",
-      "time": "22:00:20",
-      "open": 438.45,
-      "high": 440.39,
-      "low": 424.25,
-      "close": 427.34,
-      "volume": 39037007
-    },
-    {
-      "symbol": "GOOG.US",
-      "date": "2026-06-03",
-      "time": "22:00:20",
-      "open": 358.335,
-      "high": 362.5,
-      "low": 354.38,
-      "close": 355.68,
-      "volume": 43031002
-    },
-    {
-      "symbol": "GOOGL.US",
-      "date": "2026-06-03",
-      "time": "22:00:20",
-      "open": 362.03,
-      "high": 366.45,
-      "low": 358.08,
-      "close": 358.99,
-      "volume": 55441583
-    },
-    {
-      "symbol": "AMZN.US",
-      "date": "2026-06-03",
-      "time": "22:00:21",
-      "open": 254.7,
-      "high": 257.09,
-      "low": 247.71,
-      "close": 250.02,
-      "volume": 51394191
-    },
-    {
-      "symbol": "META.US",
-      "date": "2026-06-03",
-      "time": "22:00:20",
-      "open": 603,
-      "high": 624.15,
-      "low": 600.27,
-      "close": 622.98,
-      "volume": 23020056
-    },
-    {
-      "symbol": "AVGO.US",
-      "date": "2026-06-03",
-      "time": "22:00:20",
-      "open": 494.775,
-      "high": 495,
-      "low": 472.64,
-      "close": 479.23,
-      "volume": 50126446
-    },
-    {
-      "symbol": "TSM.US",
-      "date": "2026-06-03",
-      "time": "22:00:23",
-      "open": 449.99,
-      "high": 450.1636,
-      "low": 434.525,
-      "close": 436.69,
-      "volume": 10245239
-    },
-    {
-      "symbol": "ORCL.US",
-      "date": "2026-06-03",
-      "time": "22:05:12",
-      "open": 240.48,
-      "high": 240.51,
-      "low": 227.605,
-      "close": 230.33,
-      "volume": 23644680
-    },
-    {
-      "symbol": "AMD.US",
-      "date": "2026-06-03",
-      "time": "22:00:20",
-      "open": 533.75,
-      "high": 546.44,
-      "low": 524.3001,
-      "close": 542.52,
-      "volume": 29411149
-    },
-    {
-      "symbol": "ASML.US",
-      "date": "2026-06-03",
-      "time": "22:00:20",
-      "open": 1709.305,
-      "high": 1743.27,
-      "low": 1690,
-      "close": 1726.36,
-      "volume": 1826858
-    },
-    {
-      "symbol": "SAP.US",
-      "date": "2026-06-03",
-      "time": "22:00:23",
-      "open": 185.14,
-      "high": 186.005,
-      "low": 180.0201,
-      "close": 180.67,
-      "volume": 2634697
-    },
-    {
-      "symbol": "CSCO.US",
-      "date": "2026-06-03",
-      "time": "22:00:19",
-      "open": 126.16,
-      "high": 129.4155,
-      "low": 124.915,
-      "close": 126.5,
-      "volume": 29972466
-    },
-    {
-      "symbol": "CRM.US",
-      "date": "2026-06-03",
-      "time": "22:00:23",
-      "open": 197.27,
-      "high": 197.68,
-      "low": 189.73,
-      "close": 190.61,
-      "volume": 14154391
-    },
-    {
-      "symbol": "QCOM.US",
-      "date": "2026-06-03",
-      "time": "22:00:19",
-      "open": 235.02,
-      "high": 255.09,
-      "low": 233.02,
-      "close": 250.01,
-      "volume": 19466983
-    },
-    {
-      "symbol": "ADBE.US",
-      "date": "2026-06-03",
-      "time": "22:00:21",
-      "open": 259.39,
-      "high": 260,
-      "low": 252.34,
-      "close": 256.24,
-      "volume": 4871308
-    },
-    {
-      "symbol": "INTC.US",
-      "date": "2026-06-03",
-      "time": "22:00:20",
-      "open": 116.42,
-      "high": 118.29,
-      "low": 110.86,
-      "close": 112.71,
-      "volume": 118928807
-    },
-    {
-      "symbol": "TXN.US",
-      "date": "2026-06-03",
-      "time": "22:00:19",
-      "open": 308.64,
-      "high": 312.76,
-      "low": 301.64,
-      "close": 308.59,
-      "volume": 6730073
-    },
-    {
-      "symbol": "PLTR.US",
-      "date": "2026-06-03",
-      "time": "22:00:19",
-      "open": 149.7,
-      "high": 151.68,
-      "low": 141.25,
-      "close": 142.2,
-      "volume": 41072510
-    },
-    {
-      "symbol": "CRWD.US",
-      "date": "2026-06-03",
-      "time": "22:00:19",
-      "open": 765.675,
-      "high": 766.9999,
-      "low": 742.12,
-      "close": 747.61,
-      "volume": 5246589
-    },
-    {
-      "symbol": "PYPL.US",
-      "date": "2026-06-03",
-      "time": "22:00:19",
-      "open": 44.34,
-      "high": 44.5,
-      "low": 42.315,
-      "close": 42.61,
-      "volume": 19227302
-    },
-    {
-      "symbol": "SNPS.US",
-      "date": "2026-06-03",
-      "time": "22:00:19",
-      "open": 502.78,
-      "high": 504.1218,
-      "low": 491.2,
-      "close": 498.02,
-      "volume": 1660948
-    },
-    {
-      "symbol": "NOW.US",
-      "date": "2026-06-03",
-      "time": "22:00:23",
-      "open": 127.99,
-      "high": 128.0786,
-      "low": 117.34,
-      "close": 117.9,
-      "volume": 34316415
-    },
-    {
-      "symbol": "ZS.US",
-      "date": "2026-06-03",
-      "time": "22:00:19",
-      "open": 141.9,
-      "high": 142.47,
-      "low": 133.53,
-      "close": 134.37,
-      "volume": 7737749
-    },
-    {
-      "symbol": "PANW.US",
-      "date": "2026-06-03",
-      "time": "22:00:20",
-      "open": 285,
-      "high": 288,
-      "low": 275.85,
-      "close": 280.43,
-      "volume": 14716915
-    },
-    {
-      "symbol": "9766.JP",
-      "date": "2026-06-03",
-      "time": "08:00:00",
-      "open": 19800,
-      "high": 19990,
-      "low": 19410,
-      "close": 19885,
-      "volume": 517200
-    },
-    {
-      "symbol": "RBLX.US",
-      "date": "2026-06-03",
-      "time": "22:00:20",
-      "open": 44.39,
-      "high": 44.81,
-      "low": 42.69,
-      "close": 43.68,
-      "volume": 8856407
-    },
-    {
-      "symbol": "DOCU.US",
-      "date": "2026-06-03",
-      "time": "22:00:19",
-      "open": 54.12,
-      "high": 54.29,
-      "low": 51.86,
-      "close": 52.4,
-      "volume": 3274557
-    },
-    {
-      "symbol": "NET.US",
-      "date": "2026-06-03",
-      "time": "22:04:42",
-      "open": 270,
-      "high": 270.23,
-      "low": 260.74,
-      "close": 265.33,
-      "volume": 3904959
-    },
-    {
-      "symbol": "DDOG.US",
-      "date": "2026-06-03",
-      "time": "22:00:20",
-      "open": 260.275,
-      "high": 262.2,
-      "low": 245.6301,
-      "close": 250.33,
-      "volume": 8862586
-    },
-    {
-      "symbol": "OKTA.US",
-      "date": "2026-06-03",
-      "time": "22:00:20",
-      "open": 132.48,
-      "high": 132.735,
-      "low": 124.2001,
-      "close": 124.65,
-      "volume": 6149712
-    },
-    {
-      "symbol": "TEAM.US",
-      "date": "2026-06-03",
-      "time": "22:00:18",
-      "open": 106.13,
-      "high": 106.13,
-      "low": 99.645,
-      "close": 101.53,
-      "volume": 5029807
-    },
-    {
-      "symbol": "SNOW.US",
-      "date": "2026-06-03",
-      "time": "22:00:23",
-      "open": 261.81,
-      "high": 263.64,
-      "low": 241.14,
-      "close": 241.28,
-      "volume": 11359107
-    },
-    {
-      "symbol": "FSLR.US",
-      "date": "2026-06-03",
-      "time": "22:00:20",
-      "open": 305.442,
-      "high": 320.95,
-      "low": 302,
-      "close": 318.25,
-      "volume": 2702111
-    },
-    {
-      "symbol": "FVRR.US",
-      "date": "2026-06-03",
-      "time": "22:00:22",
-      "open": 10.5,
-      "high": 10.5,
-      "low": 9.9807,
-      "close": 10.07,
-      "volume": 1148306
-    },
-    {
-      "symbol": "BBY.US",
-      "date": "2026-06-03",
-      "time": "22:00:23",
-      "open": 72.78,
-      "high": 72.78,
-      "low": 70.61,
-      "close": 71.73,
-      "volume": 5799876
-    },
-    {
-      "symbol": "ETSY.US",
-      "date": "2026-06-03",
-      "time": "22:00:22",
-      "open": 68.92,
-      "high": 70.47,
-      "low": 66.64,
-      "close": 67.05,
-      "volume": 2987520
-    },
-    {
-      "symbol": "ROKU.US",
-      "date": "2026-06-03",
-      "time": "22:00:19",
-      "open": 125.73,
-      "high": 126.99,
-      "low": 119.49,
-      "close": 122.2,
-      "volume": 2360178
-    },
-    {
-      "symbol": "SQ.US",
-      "date": "N/D",
-      "time": "N/D",
       "open": null,
       "high": null,
       "low": null,
@@ -440,74 +47,326 @@
       "volume": null
     },
     {
-      "symbol": "TTD.US",
-      "date": "2026-06-03",
-      "time": "22:00:19",
-      "open": 21,
-      "high": 21.03,
-      "low": 20.05,
-      "close": 20.56,
-      "volume": 17597965
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": null
     },
     {
-      "symbol": "WDAY.US",
-      "date": "2026-06-03",
-      "time": "22:00:19",
-      "open": 147.56,
-      "high": 147.56,
-      "low": 143.04,
-      "close": 146.9,
-      "volume": 4451445
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": null
     },
     {
-      "symbol": "DUOL.US",
-      "date": "2026-06-03",
-      "time": "22:00:19",
-      "open": 109.67,
-      "high": 112.2154,
-      "low": 104.61,
-      "close": 107.4,
-      "volume": 1878569
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": null
     },
     {
-      "symbol": "UPST.US",
-      "date": "2026-06-03",
-      "time": "22:00:19",
-      "open": 31.82,
-      "high": 31.86,
-      "low": 29.58,
-      "close": 30.29,
-      "volume": 5467639
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": null
     },
     {
-      "symbol": "ZM.US",
-      "date": "2026-06-03",
-      "time": "22:00:19",
-      "open": 110.38,
-      "high": 110.735,
-      "low": 105.6,
-      "close": 106.2,
-      "volume": 3093416
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": null
     },
     {
-      "symbol": "ANET.US",
-      "date": "2026-06-03",
-      "time": "22:00:23",
-      "open": 175.49,
-      "high": 177.48,
-      "low": 168.71,
-      "close": 174.37,
-      "volume": 8069719
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": null
     },
     {
-      "symbol": "ARM.US",
-      "date": "2026-06-03",
-      "time": "22:00:21",
-      "open": 407.535,
-      "high": 417.5,
-      "low": 373.89,
-      "close": 411.83,
-      "volume": 11938804
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": null
+    },
+    {
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": null
+    },
+    {
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": null
+    },
+    {
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": null
+    },
+    {
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": null
+    },
+    {
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": null
+    },
+    {
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": null
+    },
+    {
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": null
+    },
+    {
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": null
+    },
+    {
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": null
+    },
+    {
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": null
+    },
+    {
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": null
+    },
+    {
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": null
+    },
+    {
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": null
+    },
+    {
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": null
+    },
+    {
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": null
+    },
+    {
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": null
+    },
+    {
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": null
+    },
+    {
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": null
+    },
+    {
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": null
+    },
+    {
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": null
+    },
+    {
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": null
+    },
+    {
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": null
+    },
+    {
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": null
+    },
+    {
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": null
+    },
+    {
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": null
+    },
+    {
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": null
+    },
+    {
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": null
+    },
+    {
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": null
+    },
+    {
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": null
+    },
+    {
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": null
+    },
+    {
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": null
+    },
+    {
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": null
+    },
+    {
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": null
+    },
+    {
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": null
+    },
+    {
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": null
+    },
+    {
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": null
+    },
+    {
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": null
+    },
+    {
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": null
+    },
+    {
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": null
     }
   ]
 }
